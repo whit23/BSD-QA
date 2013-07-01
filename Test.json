@@ -1,0 +1,11 @@
+{
+  "type": "script",
+  "seleniumVersion": "2",
+  "formatVersion": 1,
+  "steps": [
+    {
+      "type": "get",
+      "url": "http://qaauto.bluestatedigital.com/ctl/Core/AdminLogin?url=L2N0bC9Db3JlL0FkbWluSG9tZQ=="
+    }
+  ]
+}

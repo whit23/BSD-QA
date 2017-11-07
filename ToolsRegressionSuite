@@ -1,0 +1,160 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="ToolsRegressionSuite" verbose="1" >
+
+  <test name="com.example.tests.TestConsSearchFirstName" >
+    <classes>
+      <class name="com.example.tests.TestConsSearchFirstName" />
+    </classes>
+  </test>
+
+  <test name="com.example.tests.TestConsUpload" >
+    <classes>
+      <class name="com.example.tests.TestConsUpload" />
+    </classes>
+  </test>
+
+  <test name="com.example.tests.TestConsUploadStatus" >
+    <classes>
+      <class name="com.example.tests.TestConsUploadStatus" />
+    </classes>
+  </test>
+
+  <test name="com.example.tests.TestDashboardRegisterNewUser" >
+    <classes>
+      <class name="com.example.tests.TestDashboardRegisterNewUser" />
+    </classes>
+  </test>
+
+  <test name="com.example.tests.TestDonationCreateCampaign" >
+    <classes>
+      <class name="com.example.tests.TestDonationCreateCampaign" />
+    </classes>
+  </test>
+
+  <test name="com.example.tests.TestDonationCreateCyberSourceGateway" >
+    <classes>
+      <class name="com.example.tests.TestDonationCreateCyberSourceGateway" />
+    </classes>
+  </test>
+
+  <test name="com.example.tests.TestDonationCreateSimplePageNew" >
+    <classes>
+      <class name="com.example.tests.TestDonationCreateSimplePageNew" />
+    </classes>
+  </test>
+
+  <test name="com.example.tests.TestDonationCreateTicketPageNew" >
+    <classes>
+      <class name="com.example.tests.TestDonationCreateTicketPageNew" />
+    </classes>
+  </test>
+
+  <test name="com.example.tests.TestDonationCreateMembershipDailyPageNew" >
+    <classes>
+      <class name="com.example.tests.TestDonationCreateMembershipDailyPageNew" />
+    </classes>
+  </test>
+
+  <test name="com.example.tests.TestDonationCreateMembershipLifetimePageNew" >
+    <classes>
+      <class name="com.example.tests.TestDonationCreateMembershipLifetimePageNew" />
+    </classes>
+  </test>
+
+  <test name="com.example.tests.TestDonationCreateCustomPageNew" >
+    <classes>
+      <class name="com.example.tests.TestDonationCreateCustomPageNew" />
+    </classes>
+  </test>
+
+  <test name="com.example.tests.TestDonationCreateRecurringSimplePageNew" >
+    <classes>
+      <class name="com.example.tests.TestDonationCreateRecurringSimplePageNew" />
+    </classes>
+  </test>
+
+  <test name="com.example.tests.TestDonationCreateQuickDonateSimplePageNew" >
+    <classes>
+      <class name="com.example.tests.TestDonationCreateQuickDonateSimplePageNew" />
+    </classes>
+  </test>
+
+  <test name="com.example.tests.TestDonationEditReceipt" >
+    <classes>
+      <class name="com.example.tests.TestDonationEditReceipt" />
+    </classes>
+  </test>
+
+  <test name="com.example.tests.TestDonationMakeSFRPACVVViaApplicationProgrammingInterface" >
+    <classes>
+      <class name="com.example.tests.TestDonationMakeSFRPACVVViaApplicationProgrammingInterface" />
+    </classes>
+  </test>
+
+  <test name="com.example.tests.TestDonationMakeSFRPCCVVViaApplicationProgrammingInterface" >
+    <classes>
+      <class name="com.example.tests.TestDonationMakeSFRPCCVVViaApplicationProgrammingInterface" />
+    </classes>
+  </test>
+
+  <test name="com.example.tests.TestDonationMakeSimpleViaGatewayPayPalWebsitePaymentPro" >
+    <classes>
+      <class name="com.example.tests.TestDonationMakeSimpleViaGatewayPayPalWebsitePaymentPro" />
+    </classes>
+  </test>
+
+  <test name="com.example.tests.TestEventSearchControlPanel" >
+    <classes>
+      <class name="com.example.tests.TestEventSearchControlPanel" />
+    </classes>
+  </test>
+
+  <test name="com.example.tests.TestEventSearchDashboard" >
+    <classes>
+      <class name="com.example.tests.TestEventSearchDashboard" />
+    </classes>
+  </test>
+
+  <test name="com.example.tests.TestEventViewDetailsControlPanel" >
+    <classes>
+      <class name="com.example.tests.TestEventViewDetailsControlPanel" />
+    </classes>
+  </test>
+
+  <test name="com.example.tests.TestMailingCreateViaCloning" >
+    <classes>
+      <class name="com.example.tests.TestMailingCreateViaCloning" />
+    </classes>
+  </test>
+
+  <test name="com.example.tests.TestMailingSendClone" >
+    <classes>
+      <class name="com.example.tests.TestMailingSendClone" />
+    </classes>
+  </test>
+
+  <test name="com.example.tests.TestMailingCreateTWIGOldViaCloning" >
+    <classes>
+      <class name="com.example.tests.TestMailingCreateTWIGOldViaCloning" />
+    </classes>
+  </test>
+
+  <test name="com.example.tests.TestMailingTWIGOldSend" >
+    <classes>
+      <class name="com.example.tests.TestMailingTWIGOldSend" />
+    </classes>
+  </test>
+
+  <test name="com.example.tests.TestSignupSubmitForm" >
+    <classes>
+      <class name="com.example.tests.TestSignupSubmitForm" />
+    </classes>
+  </test>
+
+  <test name="com.example.tests.TestSpeakOutSubmitFormControlPanel" >
+    <classes>
+      <class name="com.example.tests.TestSpeakOutSubmitFormControlPanel" />
+    </classes>
+  </test>
+
+</suite>
